@@ -1,0 +1,11 @@
+# app.desktop
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Termux Runner
+Comment=A 3-lane endless runner built for Termux
+Exec=/data/data/com.termux/files/home/.local/opt/termux-runner/launch.sh
+Icon=/data/data/com.termux/files/home/.local/opt/termux-runner/icon.png
+Categories=Game;ArcadeGame;
+Terminal=false
+StartupNotify=true
