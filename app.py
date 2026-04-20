@@ -2,6 +2,7 @@
 import customtkinter as ctk
 import tkinter as tk
 import random
+VERSION = "1.0.0"
 
 # Enforce Termux environment aesthetic
 ctk.set_appearance_mode("dark")
